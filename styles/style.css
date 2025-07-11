@@ -157,7 +157,7 @@ background-color: #FFFFFF;
 border-color: #F2EDED;
 gap:24px;
 border-radius: 14px;
-box-sizing:1px solid #F2EDED ;
+box-shadow:0px 2px 4px  #252432 ;
 
 }
 .rate{
@@ -298,4 +298,7 @@ nav ul li a{
 .foot-nav nav ul li{
   list-style: none;
   color:#8987A1;
+}
+label{
+  padding: 10px;
 }
